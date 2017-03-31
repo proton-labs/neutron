@@ -1,2 +1,2 @@
 # neutron
-Simple implementation Event Store
+Simple implementation of Event Store
